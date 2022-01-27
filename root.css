@@ -14,16 +14,6 @@ body{
 .enum{
   word-spacing: 10px;
 }
-img{
-  width: 140px;
-  height: 140px;
-  border-radius: 50%;
-}
-.profile-img{
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
 .container{
   display: flex;
   width: 100%;
@@ -32,14 +22,32 @@ img{
 .highlight{
   color: var(--highlight-text);
   text-transform: uppercase;
-  letter-spacing: 4px;
+  letter-spacing: 7px;
+  margin-top: 1.5rem;
 }
+.link{
+  color: #FFF;
+  text-decoration: none;
+  border-bottom: 1px solid var(--highlight-text);
+}
+.lists{
+  list-style: none;
+  padding-left: 0rem;
+}
+.lists li{
+  margin: .4rem 0;
+}
+
+
 /* LEFT SIDE +++++++++++++++++++++++++++++++++ */
 .left-side{
   width: 35%;
   background-color: #212529;
   color: #FFF;
-  padding: 1rem;
+  padding: 1rem 2rem;
+}
+.left-inner-content{
+  margin: 4rem 0;
 }
 
 /* RIGHT SIDE +++++++++++++++++++++++++++++++++ */
