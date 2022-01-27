@@ -11,9 +11,7 @@ body{
   margin: 0;
   font-family: 'Open Sans', sans-serif;
 }
-.enum{
-  word-spacing: 10px;
-}
+
 .container{
   display: flex;
   width: 100%;
@@ -25,32 +23,21 @@ body{
   letter-spacing: 7px;
   margin-top: 1.5rem;
 }
+
+
 .link{
   color: #FFF;
   text-decoration: none;
   border-bottom: 1px solid var(--highlight-text);
 }
+.link, .black{
+  color: #343a40;
+}
+
 .lists{
   list-style: none;
   padding-left: 0rem;
 }
 .lists li{
   margin: .4rem 0;
-}
-
-
-/* LEFT SIDE +++++++++++++++++++++++++++++++++ */
-.left-side{
-  width: 35%;
-  background-color: #212529;
-  color: #FFF;
-  padding: 1rem 2rem;
-}
-.left-inner-content{
-  margin: 4rem 0;
-}
-
-/* RIGHT SIDE +++++++++++++++++++++++++++++++++ */
-.right-side{
-  width: 65%;                
 }

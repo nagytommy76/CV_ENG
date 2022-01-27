@@ -1,0 +1,11 @@
+
+.my-name{
+  font-size: 3rem;
+  letter-spacing: 3px;
+}
+
+/* RIGHT SIDE +++++++++++++++++++++++++++++++++ */
+.right-side{
+  width: 65%;    
+  padding: 0 1.7rem;
+}
