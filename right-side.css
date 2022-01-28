@@ -7,5 +7,12 @@
 /* RIGHT SIDE +++++++++++++++++++++++++++++++++ */
 .right-side{
   width: 65%;    
-  padding: 0 1.7rem;
+  padding: 0 1.7rem; 
 }
+
+.highlight.right-side{
+  padding: 0;
+  font-size: 1.5rem;
+  letter-spacing: 5px;
+}
+/* HOME PROJECTS */

@@ -30,7 +30,7 @@ body{
   text-decoration: none;
   border-bottom: 1px solid var(--highlight-text);
 }
-.link, .black{
+.link.black{
   color: #343a40;
 }
 
