@@ -1,28 +1,26 @@
-
-
 /* LEFT SIDE +++++++++++++++++++++++++++++++++ */
-.left-side{
-  width: 35%;
-  background-color: #212529;
-  color: #FFF;
-  padding: 1rem 2rem;
+.left-side {
+   width: 35%;
+   background-color: #212529;
+   color: #fff;
+   padding: 1rem 2rem;
 }
-.left-inner-content{
-  margin: 4rem 0;
-}
-
-img{
-  width: 200px;
-  height: 200px;
-  border-radius: 50%;
-}
-.profile-img{
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+.left-inner-content {
+   margin: 4rem 0;
 }
 
-.enum{
-  word-spacing: 10px;
+img {
+   width: 240px;
+   height: 240px;
+   border-radius: 50%;
+}
+.profile-img {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
 }
 
+.enum {
+   word-spacing: 10px;
+   font-size: var(--sub-text-font-size);
+}

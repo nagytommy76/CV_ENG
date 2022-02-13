@@ -1,22 +1,21 @@
-
-.my-name{
-  font-size: 3rem;
-  letter-spacing: 3px;
+.my-name {
+   font-size: 3rem;
+   letter-spacing: 3px;
 }
 
 /* RIGHT SIDE +++++++++++++++++++++++++++++++++ */
-.right-side{
-  width: 65%;    
-  padding: 0 2rem; 
+.right-side {
+   width: 65%;
+   padding: 0 2rem;
 }
 
-.project-container{
-  margin: 1.5rem 0;
+.project-container {
+   margin: 1.5rem 0;
 }
 
-.highlight.right-side{
-  padding: 0;
-  font-size: 1.5rem;
-  letter-spacing: 5px;
+.highlight.right-side {
+   padding: 0;
+   /* font-size: 1.5rem; */
+   letter-spacing: 5px;
 }
 /* HOME PROJECTS */
